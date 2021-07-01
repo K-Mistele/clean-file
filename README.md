@@ -5,5 +5,5 @@ Requires Python >= 3.6
 
 ## Usage
 ```
-python --in in_file.txt --out out_file.txt
+python CleanNonAsciiLines.py --in in_file.txt --out out_file.txt
 ```
